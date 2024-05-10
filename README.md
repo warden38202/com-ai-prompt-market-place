@@ -1,20 +1,42 @@
-## AI-powered restaurant search engine
+## 🤖 Introduction
 
-## Features
+Welcome to our AI Prompt Selling Marketplace, a cutting-edge project. Dive into the trendiest topic on the internet – Artificial Intelligence – as we guide you through building your own AI Prompt Selling Marketplace.
 
-1. Search your favorite meal
-2. Real time search logs
-3. See and share your results
+What makes this project even more exciting? It's fully completed and ready for deployment, allowing you to kickstart your AI startup effortlessly. Explore the added convenience of a separate Admin Dashboard, empowering you to take control of the main website seamlessly. Get ready to embark on your AI journey with this comprehensive and innovative project.
 
-### Functional requirements
+## ⚙️ Tech Stack
 
-- **Search Results Relevance:** The application should return at least one result that is relevant to the user's search query.
-- **Place Descriptions Based on Reviews:** The application should generate descriptions for each place based on the available user reviews. These descriptions should provide a concise and informative summary of the place's characteristics and user experiences.
-- **Contextually Relevant Image Selection:** The application should select and display an image for each place that is contextually relevant to the user's search query. This image should accurately represent the place and enhance the user's understanding of the search results.
-- **Search History:** The application should maintain a history of the user's previous searches. This feature allows users to easily access and revisit their past searches, enhancing the overall user experience.
+- Next.js
+- NextUI
+- TailwindCSS
+- Clerk
+- Prisma
+- TypeScript
 
-### Non Functional requirements
+## 🤸 Getting Started
 
-- **Request Completion Time:** The application should strive to complete search requests within an average time of 30 seconds or less. This ensures a smooth and responsive user experience, minimizing waiting times for search results.
-- **Intuitive, Minimalist, and Responsive UI/UX:** The user interface and user experience should be designed to be intuitive, minimalist, and responsive. The application should provide a clean and clutter-free interface that is easy to navigate and understand. It should also be responsive, adapting seamlessly to different screen sizes and devices.
-- **Search History Storage in Key-Value Store:** The application should store the user's search history in a key-value (KV) store. This allows for efficient retrieval and management of search history data, ensuring fast access to previous searches.
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
