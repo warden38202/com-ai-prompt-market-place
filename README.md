@@ -4,15 +4,6 @@ Welcome to our AI Prompt Selling Marketplace, a cutting-edge project. Dive into 
 
 What makes this project even more exciting? It's fully completed and ready for deployment, allowing you to kickstart your AI startup effortlessly. Explore the added convenience of a separate Admin Dashboard, empowering you to take control of the main website seamlessly. Get ready to embark on your AI journey with this comprehensive and innovative project.
 
-## ⚙️ Tech Stack
-
-- Next.js
-- NextUI
-- TailwindCSS
-- Clerk
-- Prisma
-- TypeScript
-
 ## 🤸 Getting Started
 
 Follow these steps to set up the project locally on your machine.
